@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### About Me
 - 🔭 I’m currently working on Migraine and it's future tools.
-- 🌱 I’m currently learning JavaScript/Node.js (Terrible Language, will probably never use)
+- 🌱 I’m currently learning .NET Reversing and MSIL.
 - ⚡ Fun fact: I <3 Cars/Coding/Ass
 ---
 
