@@ -49,4 +49,4 @@ Here are some ideas to get you started:
 <img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turbski&theme=dark&layout=compact" />
 
 
-![Turbski's stats](https://github-readme-stats.vercel.app/api/wakatime?username=Turbski)
+![Turbski's stats](https://github-readme-stats.vercel.app/api/wakatime?username=Turbski&theme=dark)
