@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### About Me
 - 🔭 I’m currently freelancing and chasing da money
-- 🌱 I’m currently learning MS42-MS45 tuning.
+- 🌱 I’m currently learning Ms42 to Ms45 tuning.
 - ⚡ Fun fact: I <3 Cars/Coding/Ass.
 - 📫 How to reach me: Telegram: @Turbski
 ---
