@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ### About Me
-- 🔭 I’m currently freelancing and chasing da money
-- ⚡ Fun fact: I <3 Cars/Coding/Ass.
+- 🔭 I’m currently freelancing
+- ⚡ Fun fact: Cars is my passion, coding is my hobby.
 - 📫 How to reach me: Telegram: @Turbski
 ---
 
