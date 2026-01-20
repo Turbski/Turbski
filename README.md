@@ -27,23 +27,5 @@ Here are some ideas to get you started:
 <img align="left" alt="ASPNET" width="35px" src="https://adexin.com/wp-content/uploads/2016/08/net-logo.png" />
 <img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
  />  
- 
- 
----
-
-### Tools
-<img align="left" alt="SublimeText" width="35px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" />
-<img align="left" alt="Postman" width="35px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
-<img align="left" alt="MongoDB" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
-<img align="left" alt="LiteDB" width="35px" src="https://www.litedb.org/images/logo_litedb.svg"
- />  
-
- 
----
-
-### Statistics
-<img align="left" alt="Twin Turbo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=turbski&theme=dark&show_icons=true" />
-<img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turbski&theme=dark&layout=compact" />
-
 
 ![Turbski's stats](https://github-readme-stats.vercel.app/api/wakatime?username=Turbski&theme=dark)
